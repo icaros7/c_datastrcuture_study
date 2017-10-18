@@ -1,5 +1,5 @@
 # Data Structure Study
-(Data Structure based on C) study
+Data Structure (based on C) study
 ---
 
 생능출판  
